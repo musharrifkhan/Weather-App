@@ -55,7 +55,7 @@ Steps
 
 Clone or download the repository
 
-bash   git clone [https://github.com/your-username/weather-app.git](https://github.com/musharrifkhan/Weather-App)
+bash   git clone https://github.com/musharrifkhan/Weather-App
    cd weather-app
 
 Add your API key — open index.html and replace the value of apiKey on this line:
